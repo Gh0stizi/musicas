@@ -1,1 +1,2 @@
-# musicas
+# tecnotuchtuch
+Estudo de JavaScript.
